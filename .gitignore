@@ -1,0 +1,10 @@
+node_modules/
+deployments/
+artifacts/
+cache/
+typechain-types/
+texts/
+.env
+.env.*
+.operations
+.operations.*
